@@ -1,5 +1,5 @@
 # =================== TOP 30 USERNAME & PASSWORD ===================
-# Usernames frecvent utilizate:
+# Most Commonly Used Usernames:
 #  1. root            (7078)
 #  2. admin           (5069)
 #  3. ubnt            (931)
@@ -31,7 +31,7 @@
 # 29. noname          (130)
 # 30. login           (130)
 #
-# Parole frecvent utilizate:
+# Most Commonly Used Passwords:
 #  1. 1234            (711)
 #  2. 12345           (507)
 #  3. 123456          (502)
